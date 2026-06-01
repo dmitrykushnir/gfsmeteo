@@ -1,0 +1,12 @@
+dataset=ds084.1
+date=202407230000/to/202408132100
+datetype=init
+param=U GRD/V GRD/PRMSL/R H/T CDC/TMP/PRES/A PCP
+level=HTGL:2/10;SFC:0;BCY:0;EATM:0;MSL:0
+#oformat=netCDF
+nlat=47.375
+slat=40.625
+wlon=27.125
+elon=41.875
+product=Analysis
+#targetdir=D:\gdex\
